@@ -1,3 +1,24 @@
-h1 {
-    font-family: 'Caesar Dressing', cursive;
+* {
+    background-color: #d8d1c5;
 }
+
+h1, h2, h3 {
+    font-family: 'Caesar Dressing', cursive;
+    color: #514836;
+}
+
+h1, .list-div {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px double #b7aa94;
+  }
+
+.list {
+    display: inline-block;
+    text-align: left;
+  }
